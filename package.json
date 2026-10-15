@@ -1,0 +1,14 @@
+{
+  "name": "akwaaba-susu",
+  "version": "1.0.0",
+  "description": "A reliable, Ghana-inspired rotating susu group manager.",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test"
+  }
+}

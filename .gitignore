@@ -1,0 +1,4 @@
+node_modules/
+.susu-data.json
+.susu-data.json.*
+coverage/
